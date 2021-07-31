@@ -4,6 +4,8 @@ own work that is done by myself only
 Celine Sezer - 2453538
 */
 
+//---------------Edited---------------
+
 #include"Fighter.h"
 #include"Genjuro.h"
 #include"Haohmaru.h"
