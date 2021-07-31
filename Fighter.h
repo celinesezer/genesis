@@ -1,6 +1,6 @@
 #ifndef FIGHTER_H
 #define FIGHTER_H
-
+//lala
 #include<iostream>
 
 class Fighter{
